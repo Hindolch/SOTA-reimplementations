@@ -34,6 +34,9 @@ Trained an LSTM model built from scratch using only PyTorch’s native modules. 
 | Train MSE  | ~0.0006 |
 | Val MSE    | ~0.0001 |
 
-![MLflow Screenshot Placeholder](https://github.com/user-attachments/assets/example-lstm-mlflow-placeholder)
+<img width="1889" height="397" alt="Screenshot from 2025-07-14 13-02-58" src="https://github.com/user-attachments/assets/764081ec-57bd-4bbd-a5bc-cdffa923395e" />
+
+<img width="1728" height="582" alt="Screenshot from 2025-07-14 12-58-51" src="https://github.com/user-attachments/assets/cfa20808-95b8-4f90-9e59-8ad95da2b6ee" />
+
 
 ---
