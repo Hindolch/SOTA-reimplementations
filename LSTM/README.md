@@ -15,7 +15,6 @@ Trained an LSTM model built from scratch using only PyTorch’s native modules. 
 | block\_size   | 50      | Sequence length used as input          |
 | epochs        | 10      | Total training epochs                  |
 | lr            | 1e-3    | Learning rate                          |
-| optimizer     | AdamW   | Optimizer                              |
 
 ---
 
