@@ -1,0 +1,10 @@
+artifact_location: file:///home/kenzi/SOTA-reimplementations/LSTM/mlruns/0/models/m-b61dddf7988b4005bbdf5b7f063972c8/artifacts
+creation_timestamp: 1752476363594
+experiment_id: '0'
+last_updated_timestamp: 1752476368256
+model_id: m-b61dddf7988b4005bbdf5b7f063972c8
+model_type: null
+name: model
+source_run_id: 2bb60f6668c742d996f8ef11da8a757f
+status: 2
+status_message: null

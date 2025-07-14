@@ -1,0 +1,14 @@
+artifact_uri: file:///home/kenzi/SOTA-reimplementations/LSTM/mlruns/0/d74ab30b7f7e4cb6b349bd93e2b401f0/artifacts
+end_time: 1752475846527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d74ab30b7f7e4cb6b349bd93e2b401f0
+run_name: custom_lstm_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752475696628
+status: 4
+tags: []
+user_id: kenzi

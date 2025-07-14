@@ -1,0 +1,6 @@
+/venv
+/.env
+/mlruns
+/.vscode
+/.vscode-test
+/.mlruns
